@@ -8,11 +8,9 @@
 
 
 ### Projects ⚙️
-<!-- Running: -->
 - I’m currently working on a light weight accounting software for private use
-<!-- Finished --> 
 
-### Tools 🛠 <!--and Languages-->
+### Tech 🛠 <!--and Languages-->
 ![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=222222&logo=Manjaro&logoColor=35BF5C&label=)
 ![Visual Studio Code](https://img.shields.io/static/v1?style=for-the-badge&message=VS+Code&color=007ACC&logo=Visual+Studio+Code&logoColor=FFFFFF&label=)
 
@@ -31,7 +29,7 @@ Here are some ideas to get you started:
 
 Sources:
 https://github.com/progfay/shields-with-icon/blob/master/README.md?plain=1 --shields.io all
-![Manjaro](https://img.shields.io/badge/-Manjaro-000?&logo=Manjaro) --altes manjaro
+![Manjaro](https://img.shields.io/badge/-Manjaro-000?&logo=Manjaro) --old manjaro
 ![VS Code](https://img.shields.io/badge/-VSCode-000?&logo=visual-studio-code) --old vscode
 
 
