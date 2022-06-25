@@ -4,7 +4,7 @@
 
 - 📚 I am an engineering student with focus on mechatronics from germany
 - 🌱 I’m currently learning **Python** 
-- 🎵 I love good music - Metal - and riding my motorcylce 🏍️
+- 🎵 I love climbing, skating, good music - Metal - and riding my motorcylce 🏍️
 
 
 ### Projects ⚙️
