@@ -8,7 +8,7 @@
 
 
 ### Projects ⚙️
-- I’m currently working on a light weight accounting software for private use
+- I’m currently working on a lightweight accounting software for private use
 
 ### Tech 🛠 <!--and Languages-->
 ![Manjaro](https://img.shields.io/static/v1?style=for-the-badge&message=Manjaro&color=222222&logo=Manjaro&logoColor=35BF5C&label=)
